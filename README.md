@@ -1,5 +1,5 @@
 ## App-Communication
-3 Apps communicate with each other. 
+3 Android Apps communicate with each other. 
 
 <img src=http://g.recordit.co/UsWkDsc9RP.gif width=200><br>
 
