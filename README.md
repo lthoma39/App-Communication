@@ -3,7 +3,7 @@
 
 <img src=http://g.recordit.co/UsWkDsc9RP.gif width=200><br>
 
-<img src=http://g.recordit.co/UsWkDsc9RP.gif width=200><br>
+<img src=http://g.recordit.co/stdmd502HN.gif width=200><br>
 
 ## Project Description
 This project consists of three communicating apps, A1, A2 and A3, described below. The apps are supposed
