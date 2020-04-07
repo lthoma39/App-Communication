@@ -1,7 +1,9 @@
 ## App-Communication
 3 Apps communicate with each other. 
 
-<img src=http://g.recordit.co/ee4Ky80j4n.gif width=200><br>
+<img src=http://g.recordit.co/UsWkDsc9RP.gif width=200><br>
+
+<img src=http://g.recordit.co/UsWkDsc9RP.gif width=200><br>
 
 ## Project Description
 This project consists of three communicating apps, A1, A2 and A3, described below. The apps are supposed
